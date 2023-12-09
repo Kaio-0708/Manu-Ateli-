@@ -34,11 +34,12 @@ body{
 /*final da estrutura principal*/
 
 h1{
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-family: Optima, sans-serif;
 	font-size: 35px;
 	text-align: center;
-	color: white;
+	color:white;
 	margin-top: 70px;
+	text-transform: uppercase;
 }
 
 h3{
@@ -51,7 +52,7 @@ h3{
 #container p{
 	display: flex;
 	font-family: sans-serif;
-	font-size: 12px;
+	font-size: 15px;
 	text-align: left;
 	color: white;
 }
@@ -77,7 +78,7 @@ ul li a{
 }
 
 ul li a .bloco:hover{
-	background:#eecfb2;
+	background:#A4A4A4;
 }
 
 .bloco{
