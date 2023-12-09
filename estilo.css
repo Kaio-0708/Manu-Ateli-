@@ -53,8 +53,13 @@ h3{
 	display: flex;
 	font-family: sans-serif;
 	font-size: 15px;
-	text-align: left;
+	text-align: center;
 	color: white;
+}
+
+#letra p{
+	text-align: center;
+	display: flex;
 }
 
 #interacao{
@@ -89,7 +94,7 @@ ul li a .bloco:hover{
 }
 
 @media only screen and (max-width: 768px){
-	h1, h3, #container p{ 
+	h1, h3, #container p, #letra p{ 
 	text-align:center;
 	margin-top: 20px;
    }
