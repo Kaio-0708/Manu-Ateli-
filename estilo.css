@@ -98,7 +98,7 @@ ul li a .bloco:hover{
     background-color: #F6F6F6;
     color: #000000;
     font-family:sans-serif;
-    font-size: 20px;
+    font-size: 15px;
 }
  
 @media only screen and (max-width: 768px){
