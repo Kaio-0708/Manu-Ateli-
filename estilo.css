@@ -109,11 +109,12 @@ ul li a .bloco:hover{
    }
     #container {
         background-size: cover; /* Adição para cobrir a tela */
-        display: flex;
-	flex-direction: column;
-	justify-content: space-between;
     }
-}
+   body{
+    display: flex;
+    flex-direction: column;  
+    justify-content: space-between;
+   }
 
 
 /*fim da estrutura do site*/
