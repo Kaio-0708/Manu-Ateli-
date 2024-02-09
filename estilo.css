@@ -103,7 +103,7 @@ ul li a .bloco:hover{
 }
  
 @media only screen and (max-width: 768px){
-	h1, h3, #container p, #letra p{ 
+	h1, h3, #container p, #letra p, .rodape{ 
 	text-align:center;
 	margin-top: 20px;
    }
