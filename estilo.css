@@ -97,7 +97,6 @@ ul li a .bloco:hover{
     text-align:center;
     background-color: #F6F6F6;
     color: #000000;
-    padding: 20px;
     font-family:sans-serif;
     font-size: 10px;
 }
@@ -110,11 +109,5 @@ ul li a .bloco:hover{
     #container {
         background-size: cover; /* Adição para cobrir a tela */
     }
-   body{
-    display: flex;
-    flex-direction: column;  
-    justify-content: space-between;
-   }
-
 
 /*fim da estrutura do site*/
