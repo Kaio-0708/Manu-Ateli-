@@ -92,10 +92,10 @@ ul li a .bloco:hover{
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+    padding-bottom: 5%;
 }
 
 .rodape{
-    margin-top: 1%;
     text-align:center;
     background-color: #A4A4A4;
     color: #000000;
